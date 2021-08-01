@@ -134,7 +134,7 @@
               Buscando la oportunidad de participar en un entorno colaborativo,
               competitivo e inventivo donde utilizar mi experiencia en diseño y
               desarrollo web, así como desarrollar mi potencial en el desarrollo
-              empresarial, que mis conocimientos estén siempre
+              empresarial, hacer que mis conocimientos estén siempre
               actualizados para estar al día con las nuevas tecnologías.
             </p>
           </div>
