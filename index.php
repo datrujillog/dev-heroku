@@ -620,18 +620,18 @@
                   alt=""
                 />
                 <div class="portfolio-info">
-                  <h4>App 1</h4>
-                  <p>App</p>
+                  <h4>Escuela de aprendizaje </h4>
+                  <p>para desarrolladores</p>
                   <div class="portfolio-links">
                     <a
                       href="assets/img/portfolio/portfolio-1.jpg"
                       data-gallery="portfolioGallery"
                       class="portfolio-lightbox"
-                      title="App 1"
+                      title="Proyecto Educativo"
                       ><i class="bx bx-plus"></i
                     ></a>
                     <a
-                      href="portfolio-details.php"
+                      href="EscuelaDeAprendizaje.php"
                       class="portfolio-details-lightbox"
                       data-glightbox="type: external"
                       title="Portfolio Details"
@@ -644,24 +644,24 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web">
               <div class="portfolio-wrap">
-                <img
+                <img Style="he"
                   src="assets/img/portfolio/portfolio-2.jpg"
                   class="img-fluid"
                   alt=""
                 />
                 <div class="portfolio-info">
-                  <h4>Web 3</h4>
+                  <h4>MUESTRA TU APLICACIÓN</h4>
                   <p>Web</p>
                   <div class="portfolio-links">
                     <a
                       href="assets/img/portfolio/portfolio-2.jpg"
                       data-gallery="portfolioGallery"
                       class="portfolio-lightbox"
-                      title="Web 3"
+                      title="Proyecto Educativo"
                       ><i class="bx bx-plus"></i
                     ></a>
                     <a
-                      href="portfolio-details.php"
+                      href="muestraTuAplicacion.php"
                       class="portfolio-details-lightbox"
                       data-glightbox="type: external"
                       title="Portfolio Details"
