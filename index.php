@@ -229,7 +229,7 @@
                 <i class="bi bi-emoji-smile"></i>
                 <span
                   data-purecounter-start="0"
-                  data-purecounter-end="60"
+                  data-purecounter-end="2"
                   data-purecounter-duration="1"
                   class="purecounter"
                 ></span>
